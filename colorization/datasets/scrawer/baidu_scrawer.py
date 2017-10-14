@@ -241,7 +241,6 @@ class BaiduImgDownloader(object):
 
 class Image(object):
     """图片类，保存图片信息"""
-    
     def __init__(self, url, type):
         super(Image, self).__init__()
         self.url = url
