@@ -13,10 +13,12 @@ from random import shuffle
 
 pre_root_path = os.path.join(os.environ['HOME'],
                              'Code/PycharmProjects/AnimeSketchColorization/colorization/datasets/anime/')
+
 src_path_raw = os.path.join(pre_root_path, 'select_raw')
 des_path_combine_raw = os.path.join(pre_root_path, 'combine_raw')
 
 
+# 合并
 def combine_pics(src_path=src_path_raw, des_path=des_path_combine_raw):
     all_des_abs_path = []
     # 获得所有An文件夹
