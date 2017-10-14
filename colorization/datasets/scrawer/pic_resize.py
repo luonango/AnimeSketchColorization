@@ -210,7 +210,6 @@ def combine_pic_sketch(src1=root_src1, src2=root_src2, des=root_des):
 import os
 import shutil
 
-
 def change_name(src, des):
     files = os.listdir(src)
     for i, file in enumerate(files):
