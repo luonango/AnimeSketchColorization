@@ -1,5 +1,5 @@
 # neural-style-tf
-
+# 这些代码来自（复制过来的）： https://github.com/cysmith/neural-style-tf
 This is a TensorFlow implementation of several techniques described in the papers: 
 * [Image Style Transfer Using Convolutional Neural Networks](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
