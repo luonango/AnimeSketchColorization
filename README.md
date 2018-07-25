@@ -1,5 +1,5 @@
 # **AnimeSketchColorization**
-
+# But Failed. 未完成。　之后换课题了。
 
   **将动漫人物的手绘素描图进行着色**
 
